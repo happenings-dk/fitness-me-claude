@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fitness-me": {
+      "type": "http",
+      "url": "https://fitnessme.org/api/mcp"
+    }
+  }
+}
