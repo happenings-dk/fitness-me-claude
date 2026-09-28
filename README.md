@@ -1,6 +1,6 @@
 # Fitness Me for Claude
 
-A Claude plugin that connects Claude to your private [Fitness Me](https://fitnessme.org) and teaches it how to read and log your training, food, weight, sleep and mood.
+A Claude plugin that connects Claude to your private [Fitness Me](https://fitnessme.org) and teaches it how to read and log your training, food, water and other drinks, weight, sleep and mood.
 
 ## Install
 
@@ -19,7 +19,7 @@ claude plugin install fitness-me@fitness-me
 
 - **Connector:** `https://fitnessme.org/api/mcp` (OAuth; you choose read-only or "log and change things" when you approve).
 - **Skill `fitness-me`:** how to use the `fm_command` tool well.
-- **Commands:** `/fitness-me:today`, `/fitness-me:weigh-in`, `/fitness-me:log-meal`, `/fitness-me:weekly-review`.
+- **Commands:** `/fitness-me:today`, `/fitness-me:weigh-in`, `/fitness-me:log-meal`, `/fitness-me:water`, `/fitness-me:drink`, `/fitness-me:weekly-review`.
 
 Your data stays in your Fitness Me account; this repository contains no data or credentials. Disconnect anytime in fitnessme.org → Settings → Connected apps.
 

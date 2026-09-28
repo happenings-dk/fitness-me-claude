@@ -1,7 +1,7 @@
 {
   "name": "fitness-me",
   "displayName": "Fitness Me",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Connects Claude to your private Fitness Me (fitnessme.org) and teaches it how you train, eat and log. Sign in once with your fitnessme.org account.",
   "author": { "name": "Happenings Group", "url": "https://fitnessme.org" },
   "homepage": "https://fitnessme.org/settings#connected-apps",

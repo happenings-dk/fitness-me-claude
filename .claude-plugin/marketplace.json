@@ -10,8 +10,8 @@
       "name": "fitness-me",
       "displayName": "Fitness Me",
       "source": "./plugins/fitness-me",
-      "description": "Your private Fitness Me log in Claude: today's plan, workouts, food, weight, sleep, mood and weekly reviews — read and log through the fitnessme.org connector.",
-      "version": "1.0.0",
+      "description": "Your private Fitness Me log in Claude: today's plan, workouts, food, water and drinks, weight, sleep, mood and weekly reviews — read and log through the fitnessme.org connector.",
+      "version": "1.2.0",
       "keywords": [
         "fitness",
         "health",
